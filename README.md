@@ -24,7 +24,7 @@ The recorded data for all restaurants and categories was read and data for each 
 # Screenshots
 
 <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459">
-![Screenshot (58)](https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/2d328c20-42ad-4ac2-a5ae-5be0a0065c9e)
+<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/2d328c20-42ad-4ac2-a5ae-5be0a0065c9e">
 
 <img width="851" alt="Screen Shot 2022-09-10 at 1 15 52 PM" src="https://user-images.githubusercontent.com/68161473/189474346-4a069c3a-de28-4066-a779-3aa45a8df9a2.png">
 <img width="718" alt="Screen Shot 2022-09-10 at 1 16 16 PM" src="https://user-images.githubusercontent.com/68161473/189474348-bd111e53-a329-4e93-b7f7-e1f1f5e94e11.png">
