@@ -21,23 +21,13 @@ The recorded data for all restaurants and categories was read and data for each 
 
 😋 Bangalore has about 1000 restaurants listed on swiggy.
 
-# Screenshots
-
-<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459">
+<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459"> -->
 <!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/2d328c20-42ad-4ac2-a5ae-5be0a0065c9e">
 <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/86cb13c2-9f19-424f-a756-4851ccd5e731"> -->
-<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/144b17d7-ab28-4f02-ad94-eeee20b24d9d">
+<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/144b17d7-ab28-4f02-ad94-eeee20b24d9d">
 <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/027b6b92-e135-4c4f-b0e7-d3f4e26c7d01">
-<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/4689c2b5-5dee-4087-8305-d2afd9c94dc9">
-
-
-
-
-
-
-
-
-
+<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/4689c2b5-5dee-4087-8305-d2afd9c94dc9"> -->
+ -->
 
 # **Analysis**
 
@@ -66,7 +56,7 @@ The recorded data for all restaurants and categories was read and data for each 
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
 
-    1. Started with scrapping of the data from Swiggy's website with Python via Beatiful Soup and Selenium Librabies and saving it into excel files.
+   <!--  1. Started with scrapping of the data from Swiggy's website with Python via Beatiful Soup and Selenium Librabies and saving it into excel files.-->
     
     2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into Python Jyputer Notebook for further analysis. 
     
