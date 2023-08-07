@@ -21,15 +21,12 @@ The recorded data for all restaurants and categories was read and data for each 
 
 😋 Bangalore has about 1000 restaurants listed on swiggy.
 
-<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459"> 
+<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459"> -->
 <!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/2d328c20-42ad-4ac2-a5ae-5be0a0065c9e">
 <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/86cb13c2-9f19-424f-a756-4851ccd5e731"> -->
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/144b17d7-ab28-4f02-ad94-eeee20b24d9d">
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/027b6b92-e135-4c4f-b0e7-d3f4e26c7d01">
-<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/4689c2b5-5dee-4087-8305-d2afd9c94dc9"> 
- -->
-
-#Screenshots
+<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/144b17d7-ab28-4f02-ad94-eeee20b24d9d"> -->
+<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/027b6b92-e135-4c4f-b0e7-d3f4e26c7d01">-->
+<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/4689c2b5-5dee-4087-8305-d2afd9c94dc9"> -->
 
 # AREA WISE DISTRIBUTION OF RESTAURANT
 ![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/51e949ce-bd9d-4d77-95fb-e90c738f78d3)
