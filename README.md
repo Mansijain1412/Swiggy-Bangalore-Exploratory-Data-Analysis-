@@ -29,4 +29,7 @@ The recorded data for all restaurants and categories was read and data for each 
 
 <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/144b17d7-ab28-4f02-ad94-eeee20b24d9d">
 
-<img width="719" alt="Screen Shot 2022-09-10 at 1 16 30 PM" src="https://user-images.githubusercontent.com/68161473/189474369-2a6aea30-45a8-4809-b7ee-490d5b7f1632.png">
+
+<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/fe2687cb-364a-4b92-b136-9fa87daddb46">
+
+<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/4689c2b5-5dee-4087-8305-d2afd9c94dc9">
