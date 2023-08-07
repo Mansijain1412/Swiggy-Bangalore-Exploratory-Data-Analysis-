@@ -21,60 +21,16 @@ The recorded data for all restaurants and categories was read and data for each 
 
 😋 Bangalore has about 1000 restaurants listed on swiggy.
 
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459"> -->
+<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459"> 
 <!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/2d328c20-42ad-4ac2-a5ae-5be0a0065c9e">
 <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/86cb13c2-9f19-424f-a756-4851ccd5e731"> -->
 <!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/144b17d7-ab28-4f02-ad94-eeee20b24d9d">
 <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/027b6b92-e135-4c4f-b0e7-d3f4e26c7d01">
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/4689c2b5-5dee-4087-8305-d2afd9c94dc9"> -->
+<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/4689c2b5-5dee-4087-8305-d2afd9c94dc9"> 
  -->
 
-# **Analysis**
 
-    o	Area-wise distribution of restaurant.
   
-    o	Cuisines wise Cheap and Expensive restaurant.
-  
-    o	Location with Maximum number of restaurant where the Delivery_review_number is greater than 1000.
-  
-    o	Location wise Maximum number of less rated restaurant.
-  
-    o	Area-wise expensive and cheap restaurant.
-  
-    o	Number of restaurant  for each type of Cuisines.
-  
-    o	Area-wise distribution of restaurant.
-  
-    o	Best location to open a restaurant in Bengaluru.  
-  
-    o	Top famous cuisines  based on area. 
-  
-
-<br>
-<br>
-
-# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
-
-
-   <!--  1. Started with scrapping of the data from Swiggy's website with Python via Beatiful Soup and Selenium Librabies and saving it into excel files.-->
-    
-    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into Python Jyputer Notebook for further analysis. 
-    
-    3. Exported all the tables from Notebook to MS Excel and created required tables to gain some insights.
-    
-    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
-    
-    6. Created different charts from the table for better understanding of the data.
-    
-    7. Also Designed a Interactive Dashboard from the charts for better visualisation
-    
-    8. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
-   
-
-
-
-
-
 
 # AREA WISE DISTRIBUTION OF RESTAURANT
 ![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/51e949ce-bd9d-4d77-95fb-e90c738f78d3)
