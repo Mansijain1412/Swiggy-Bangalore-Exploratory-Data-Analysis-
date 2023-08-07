@@ -22,7 +22,6 @@ The recorded data for all restaurants and categories was read and data for each 
 😋 Bangalore has about 1000 restaurants listed on swiggy.
 
 # Screenshots
-https://github.com/Mansijain1412/Swiggy-Data-Analysis/blob/main/Screenshot%20(58).png
 
 <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459">
 ![Screenshot (58)](https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/2d328c20-42ad-4ac2-a5ae-5be0a0065c9e)
