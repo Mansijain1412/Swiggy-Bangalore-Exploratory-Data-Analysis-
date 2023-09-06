@@ -21,39 +21,40 @@ The recorded data for all restaurants and categories was read and data for each 
 
 😋 Bangalore has about 1000 restaurants listed on swiggy.
 
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/84b23918-5734-4f0a-86f0-16b319526459"> -->
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/2d328c20-42ad-4ac2-a5ae-5be0a0065c9e">
-<img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/86cb13c2-9f19-424f-a756-4851ccd5e731"> -->
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/144b17d7-ab28-4f02-ad94-eeee20b24d9d"> -->
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/027b6b92-e135-4c4f-b0e7-d3f4e26c7d01">-->
-<!-- <img width="720" alt="Screen Shot 2022-09-10 at 1 15 18 PM" src="https://github.com/Mansijain1412/Swiggy-Data-Analysis/assets/97581058/4689c2b5-5dee-4087-8305-d2afd9c94dc9"> -->
+
 
 # AREA WISE DISTRIBUTION OF RESTAURANT
-![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/51e949ce-bd9d-4d77-95fb-e90c738f78d3)
-
+![Screenshot (972)](https://github.com/Mansijain1412/Swiggy-Bangalore-Exploratory-Data-Analysis-/assets/97581058/39091a32-3135-47db-9ce3-d49b71f6cd4a)
 
 # AREA WISE CHEAP RESTAURANT
-![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/ad4e83f0-0b83-4694-9167-300e9bd0b12d)
+![Screenshot (973)](https://github.com/Mansijain1412/Swiggy-Bangalore-Exploratory-Data-Analysis-/assets/97581058/96c260e1-6dfe-4dde-a35f-e451b30adf5f)
+
+# NUMBER OF RESTAURANT FOR EACH TYPE OF CUISINE
+
+
+![Screenshot (975)](https://github.com/Mansijain1412/Swiggy-Bangalore-Exploratory-Data-Analysis-/assets/97581058/897108d7-3357-429b-9e5e-1c8a1f3c023c)
+
 
 
 # AREA WISE EXPENSIVE RESTAURANT
-![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/3999ae4c-694d-4697-8787-6a7c280eb60f)
+![Screenshot (974)](https://github.com/Mansijain1412/Swiggy-Bangalore-Exploratory-Data-Analysis-/assets/97581058/40d4d06b-8248-4496-8677-7bfcbebab2c4)
 
-
-# NUMBER OF RESTAURANT FOR EACH TYPE OF CUISINE
-![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/e04856c3-f7d3-4f35-85e0-39dcd80da469)
 
 
 # AREA WISE RATING DISTRIBUTION
-![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/cbdfd046-ca81-48f9-bdc7-a61d09360657)
-![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/6ce09d9d-8567-4fdc-8625-664252f05575)
-![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/fc859d4a-5a98-4986-bb5d-7c02357080aa)
 
 
+![Screenshot (976)](https://github.com/Mansijain1412/Swiggy-Bangalore-Exploratory-Data-Analysis-/assets/97581058/ac34acef-1ee3-4fdc-a68c-20778fe5f113)
+
+![Screenshot (977)](https://github.com/Mansijain1412/Swiggy-Bangalore-Exploratory-Data-Analysis-/assets/97581058/5e64b0cf-da7a-44fd-b1df-4ba425c3fc75)
+
+
+![Screenshot (978)](https://github.com/Mansijain1412/Swiggy-Bangalore-Exploratory-Data-Analysis-/assets/97581058/f1aba1b2-842f-44e2-8529-b7dafa77a971)
 
 #  <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Dashboard
-![image](https://github.com/Swati-Latta/Swiggy-Remote-Kitchen/assets/134490572/5a7c1e48-4fbd-4a57-a811-40723324b3ca)
 
+
+![Screenshot (979)](https://github.com/Mansijain1412/Swiggy-Bangalore-Exploratory-Data-Analysis-/assets/97581058/a554f5eb-c6d1-4750-a2e5-9dc219668627)
 
 
 
