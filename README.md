@@ -59,39 +59,44 @@ The recorded data for all restaurants and categories was read and data for each 
 
 
 
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/1334f205-b4ce-4125-b71f-a38637dec197" width="70" height="50" >Conlusions:
 
-# <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
+- **Observing Localities:**
+    - Indiranagar, Koramangala, and BTM Layout are densely populated areas.
+    - Few highly-rated restaurants with impressive delivery reviews and limited ratings exist in these localities.
+      
+- **Promising Approach:**
+    - The concept of a remote kitchen emerges as a promising solution.
+    - Remote kitchens can leverage the positive delivery review ratings and address the shortage of dining options in these areas.
+      
+- **New Restaurant Prospects:**
+    - A clear opportunity arises for establishing new restaurants.
+    - Leveraging remote kitchens could be a strategic approach to cater to the underserved demand.
+      
+- **Quality Emphasis:**
+    - To succeed in opening remote kitchens, a strong emphasis on food quality is crucial.
+    - Providing high-quality meals that match customer expectations is a cornerstone of success.
+      
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
 
-**1. Indiranagar has the highest average rating of 4.7 among all the locations.**
+- **Challenging Web Scraping:**
+    - Scraping Swiggy data proved to be a challenging task primarily due to the dynamic nature of the website.
 
-**2. Brigade Road and Frazer Town both have an average rating of 4.4, which is the second-highest after Indiranagar.**
+- **Complex HTML Structure:** 
+    - The website's HTML structure was intricate and complex, adding an extra layer of difficulty to the scraping process.
 
-**3. Richmond Town has the highest average price_for_one of 1750, which is significantly higher than other locations.**
+- **Efficient Time Management:**
+    - Managing time efficiently was essential to tackle the challenges effectively.
 
-**4. The highest number of reviews are received by locations such as Brigade Road, Jayanagar, JP Nagar, Koramangala, Shivaji Nagar, and Vignana Nagar.**
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
+- **Web Scraping:**
+    - **Web scraping** is the process of automatically extracting data from websites. Web scraping allows you to retrieve data, such as text, images, links, and other content, from websites and save it in a structured 
+      format, such as a database or spreadsheet.
 
-**5. The lowest average rating is in Ashok Nagar with a rating of 2.4.**
-
-**6. The highest average review number is 10,000 for several locations such as 4th Block, 7th Block, and Richmond Town, indicating that these locations are highly popular among customers.**
-
-**7. Indiranagar has the highest maximum rating of 4.7 with 14 restaurants having this rating.  of 4.5**
-
-**8. Jayanagar also has a maximum rating of 4.7 but with 12 restaurants having this rating.**
-
-**9. Banashankari has a maximum rating with 9 restaurants having this rating.**
-
-**10.The maximum price for one serving of food or meal is also the highest in Richmond Town, with a price of 1750. Other locations with high maximum prices include St Marks Road with a price of 650 and Ashok Nagar with a price of 375.**
-
- #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
-## The aim of the Project is to:
-
-**Assist the Enterpreneurs interested in entering Restaurant's Business with useful insights like most loved cuisines, locations with high business potential, prices that they can think of charging for dishes etc.**
-
-**Help the existing Restaurant owners with the Data of their performance compared to others, new cuisines they can opt for business expansion, optimum prices that they can charge etc.**
-
-**To look for the level of Customer's satisfaction and to help Swiggy in finding out the locations and the restaurants they need to work upon for betterment of the business.**
-
-**Empowerment of common people with the relevant information that can help them to establish succesful food business, generate employment and aid to the raising employment rate of the country.**
+- **Python Libraries: (BeautifulSoup and Selenium)**
+    - **Beautiful Soup** is a Python library used for web scraping tasks. Beautiful Soup is commonly used for extracting information from static web pages where the content is embedded directly in the HTML. It's 
+      particularly       useful for projects that require parsing and extracting data from web pages that are not heavily reliant on JavaScript for content rendering.
+    - **Selenium** is used for automating browser interactions, making it suitable for scraping dynamically loaded or JavaScript-heavy websites. 
 
 
 
