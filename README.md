@@ -21,6 +21,22 @@ The recorded data for all restaurants and categories was read and data for each 
 
 😋 Bangalore has about 1000 restaurants listed on swiggy.
 
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
+- **Web Scraping:**
+    - We utilized Python libraries such as BeautifulSoup and Selenium to proficiently extract data from the Swiggy website. The scraped data encompassed crucial elements including Restaurant Names, Locations, Two-Person         Prices, Cuisines, Ratings, Delivery Review Numbers, and URLs of the restaurants.
+
+- **Data Cleaning:**
+    - Recognizing the initial data's imperfections, we employed both Pandas and Excel to execute a meticulous data cleaning process.
+    - **Handled Missing Data:**
+      - Addressing the presence of Null values in our dataset, we applied tailored strategies involving the use of means, medians, and modes for specific columns. This approach included filling Null values with the                Mode for categorical columns, while employing Mean and Median for numerical counterparts.
+
+    - **Price Refinement:**
+      - We further refined our data by extracting individual meal prices from the 'Price for Two' column.
+
+- **Data Visualization:**
+    - Building upon the cleaned dataset, we derived insightful patterns and trends. These valuable insights were then presented dynamically through an interactive dashboard enhanced with Slicers, providing a             
+      comprehensive visualization of our findings.
+
 
 
 # AREA WISE DISTRIBUTION OF RESTAURANT
